@@ -29,8 +29,3 @@
 - `matplotlib`
 - `seaborn`
 - `scikit-learn`
-
-برای نصب این کتابخانه‌ها می‌توانید از دستور زیر استفاده کنید:
-
-```bash
-pip install -r requirements.txt
